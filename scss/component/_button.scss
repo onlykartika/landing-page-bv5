@@ -1,0 +1,9 @@
+@use '../custom' as *;
+
+
+button {
+    padding: 10px 32px 10px 32px;
+    border-style: none;
+    background-color: $primary;
+    color: white;
+}

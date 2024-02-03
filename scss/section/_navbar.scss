@@ -1,0 +1,10 @@
+@use '../custom' as *;
+
+.menu {
+    background-color: $primary;
+    padding-left: 50px;
+    padding-right: 50px;
+    a {
+        color: white;
+    }
+}
