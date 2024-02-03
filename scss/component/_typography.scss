@@ -6,12 +6,20 @@
         color: $primary;
         display: inline-block;
         font-weight: 700;
+        font-size: 4rem;
     }
 
     &--description {
-        font-size: 1rem;
+        font-size: 1.2rem;
+        font-weight: 200;
         display: block;
         margin-top: 1.2rem;
         text-transform: none;
+        margin-bottom: 20px;
     }
+}
+
+.title-video {
+
+    padding: 20px 20px;
 }
